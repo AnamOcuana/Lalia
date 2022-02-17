@@ -5,9 +5,7 @@ The basic idea is to create a software package that is perfected enough for use 
 portable and non-portable machines for this single purpose, with just the interals of a simple computer system-on-chip, a good microphone, 
 and a clear display screen.
 
-Those posessed by the Holy Spirit will deliver utterances which will be sensed by the machine, which will then translate speech to 
-speech transcription text and then into coded messages, organized in database files (spreadsheets), as per the machine's pre-established 
-programming. In order to thwart fraud and spoofing, the speech transcriptions and their target database output words and expressions 
+Those posessed by the Holy Spirit will deliver utterances which will be sensed acoustically by the machine through a microphone, which will then translate speech to speech transcription text and then into coded messages, organized in database files (spreadsheets), as per the machine's pre-established programming. In order to thwart fraud and spoofing, the speech transcriptions and their target database output words and expressions 
 can be scrambled, and the scramble which is used will have a visible code number, which is essential, given the need of the master glossolalist
 know the way the machine is scrambling speech transcriptions and target database elements. 
 
