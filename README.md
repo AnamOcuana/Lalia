@@ -2,7 +2,7 @@
 
 Lalia, cf. "glossolalia," software which incorporates a very generalized speech to text engine along with an editable spreadsheet system for transforming utterances by Holy prophets into actual meaningful speech or command language. Holy prophets are those who are in the receiving of quantum cognitive speech commands from the Holy Quantum God beings. Those faking such speech sounds would not be able to fool the machine into delivering meaningful code, as the transcribed sounds are scrambled in a way which no human can fake without prior training, and if the scrambles are sophisticated, even obnoxious attempts at fakery will fail, and even obnoxiously scrutinous tests will confirm actual receivers. 
 
-The scrambles are at first simply built, from simple shift cyphers and substitution cyphers, and on to where sounds are transcribed then scrambled on a sylallbic basis. And each scramble has a associated identity code, which can (if in insecure environments) also be coded/scrambled/encrypted. 
+The scrambles are best at first simply built, from simple shift cyphers and substitution cyphers, and on to where sounds are transcribed then scrambled on a sylallbic basis. The simple alphabet shift and substitution cyphers might be rather simplistic, but the simple syllablic shift and substitution cyphers might be more than ample for most uses! And each scramble has a associated identity code, which can (if in insecure environments) also be coded/scrambled/encrypted. 
 
 The basic idea is to create a software package that is perfected enough for use in general mobile devices, but also for use in dedicated 
 portable and non-portable machines for this single purpose, with just the interals of a simple computer system-on-chip, a good microphone, 
