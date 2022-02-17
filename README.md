@@ -11,7 +11,16 @@ know the way the machine is scrambling speech transcriptions and target database
 
 The "scrambles" (ie. simple encryptions) can, with flexible programming of the spreadsheet or spreadsheets, be quite complex and deep, and therefore be akin to deep encryptions. But for the basic operation of this program, the scrambles don't need to be too complex, and in fact its important to build it, as with anything, from simple principles first. In the building of this program, the speech-to-text engine needs to do just one thing well, which is to recognize speech in the form of standard European, Asian, and African syllables, with a primary emphasis on European because these are distilled down to consonants and vowels, its vowel flexations are finite, its compound consonants are well-researched. Asian tonal vowels and African click-consonants can be added later. 
 
-Thus a simple "scramble" resembles a Caesar cypher, where A --> B and B --> C etc., except that the handling of speech in transcription means that prosody (speech tempo and rhythm) are important to be able to lay out transcribed speech well enough to then break apart the sounds into syllables and then transform these individually to some other syllables. 
+Thus a simple "scramble" resembles a Caesar cypher, where A -> B and B -> C etc. But for practical handling of speech, a transformation of 
+[n + 1 (American English alphabet)] will create strange combinations which are not syllabic and therefore often not usefully linguistic. The word 
+"cat" for example transcribed to American English alphabet letters is "cat" and then tranformed with [n + 1 (AE alphabet)] will print "dbu," which is itself not very useful. 
+
+But n + 1 (alphabet) cyphers can be useful, but the code "dhu" for example or the next one "eiv," would have to then be understood as a casear cypher with backwards decryption, or else it would have to be assigned to some other pre-defined output, pre-coded into the output transform spreadsheet, like for example "dhu" could mean "the villain will be taking off her panties at night-dawn." And each of these elements could be coded too, for example "the villian" would have an understaood meaning (as for example "Heidegel ad Hunteringtonwroud") but that could also be encoded as something like "SURINAM" thereby hiding the two words "the villain" and therefore hding the idea that this codenamed object is anything but some anonymous person/actor/agent.
+
+Speech to syllable transcription 
+For the speech to text engine to work, the discernment of syllables is important. Therefore the repudiation of the so called advanced linguistics idea that 'syllables don't actually exist,' has to be repudiated, and its easy to do. We know syllables to be the intersection between finite speech expressions and the prosody that gives the impression of separate form in speech forms where vowels and consnonants are used. (;-)
+
+except that the handling of speech in transcription means that prosody (speech tempo and rhythm) are important to be able to lay out transcribed speech well enough to then break apart the sounds into syllables and then transform these individually to some other syllables. 
 
 So in order for the speaker to say "cat" and have Lalia output the word "dog" (if that was what the transform scheme called for ahead of time), the word "cat" has to first be understood as a syllable |kat| with there being some need to handle the end consonant /t/ such that /kæ/ and /kæt/ are both handled as single syllables, and the end consonant /t/ is never confusing. 
 
